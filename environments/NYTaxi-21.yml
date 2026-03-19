@@ -1,0 +1,17 @@
+fileVersion: 1
+id: "21"
+mappingDefinitions:
+  BRONZE:
+    database: NY_TAXI
+    schema: BRONZE
+  GOLD:
+    database: THOMAS_DEMO
+    schema: GOLD
+  SILVER:
+    database: THOMAS_DEMO
+    schema: SILVER
+  SYNQ_AUDIT:
+    database: THOMAS_DEMO
+    schema: SYNQ
+name: NY Taxi
+type: Environment
