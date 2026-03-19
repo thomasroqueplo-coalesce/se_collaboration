@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "3"
+includeSelector: "+{ name: FCT_* }"
+name: Deploy job
+type: Job
